@@ -1,6 +1,6 @@
-import React from 'react';
-function Newspage(){
-return <h1>The News Page</h1>
-}
+import React from "react";
+const NewsPage = () => {
+  return <h1>The NewsPage</h1>;
+};
 
-export default Newspage;
+export default NewsPage;

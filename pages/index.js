@@ -1,6 +1,6 @@
-import React from 'react';
-function Homepage(){
-return <h1>The Home Page</h1>
-}
+import React from "react";
+const HomePage = () => {
+  return <h1>The HomePage</h1>;
+};
 
-export default Homepage;
+export default HomePage;
